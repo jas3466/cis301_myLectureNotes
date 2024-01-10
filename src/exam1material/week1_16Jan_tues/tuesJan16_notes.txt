@@ -24,6 +24,8 @@ Discord
 HW 0 - due Thurs Jan 18
     --> see how to do it
 
+    make sure to extract to C:\ drive
+
 HW 1 - due Tues Jan 23
 
 /////////////////////////
