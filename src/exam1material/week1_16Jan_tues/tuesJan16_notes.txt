@@ -290,3 +290,4 @@ Homework 1: due Tuesday, January 23
     - second page is logic puzzles (what we'll do on Thursday)
 
 Next: logic puzzles! (on Thursday Jan 18)
+another line
