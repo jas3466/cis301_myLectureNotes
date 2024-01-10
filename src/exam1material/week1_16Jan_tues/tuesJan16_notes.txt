@@ -57,7 +57,7 @@ int result = min(test);
 
 
 
---> what do we call this "promise?" postcondition
+--> what do we call this "promise?"
 
 
 
@@ -289,4 +289,4 @@ Homework 1: due Tuesday, January 23
         (what we did today)
     - second page is logic puzzles (what we'll do on Thursday)
 
-Next: logic puzzles! (on Thursday)
+Next: logic puzzles! (on Thursday Jan 18)
