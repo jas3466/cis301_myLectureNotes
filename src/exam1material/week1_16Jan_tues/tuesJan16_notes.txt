@@ -57,7 +57,7 @@ int result = min(test);
 
 
 
---> what do we call this "promise?"
+--> what do we call this "promise?" postcondition
 
 
 
