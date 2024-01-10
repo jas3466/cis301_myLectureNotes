@@ -55,7 +55,7 @@ int result = min(test);
 
 
 
---> what do we call this "promise?" p
+--> what do we call this "promise?"
 
 
 
